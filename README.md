@@ -40,6 +40,4 @@ Iniciar Sesión como ESTUDIANTE
 
  Usuario: 558909123
  Contraseña: 123456
-
-SELECCIONA LOS ANTEPROYECTOS DISPONIBLES Y CONSULTA LOS PROYECTOS
 ---------------------------------------------------------------
